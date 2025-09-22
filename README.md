@@ -31,3 +31,13 @@ Foram utilizados na realização deste projeto, em ordem alfabética:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## 👥 Colaboradores
+
+<div align="center">
+
+| [<img src="https://github.com/soldysophychroma.png" width="100">](https://github.com/soldysophychroma) | [<img src="https://github.com/Lucenalitz.png" width="100">](https://github.com/Lucenalitz) | [<img src="https://github.com/luisfelipeesb.png" width="100">](https://github.com/luisfelipeesb) | [<img src="https://github.com/PedroBiano.png" width="100">](https://github.com/PedroBiano) |
+|---|---|---|---|
+| *João Marini* | *Luigi Lucena* | *Luís Biano* | *Pedro Biano* |
+
+</div>
