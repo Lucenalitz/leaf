@@ -36,7 +36,7 @@ Foram utilizados na realização deste projeto, em ordem alfabética:
 
 <div align="center">
 
-| [<img src="https://github.com/soldysophychroma.png" width="100">](https://github.com/soldysophychroma) | [<img src="https://github.com/Lucenalitz.png" width="100">](https://github.com/Lucenalitz) | [<img src="https://github.com/luisfelipeesb.png" width="100">](https://github.com/luisfelipeesb) | [<img src="https://github.com/PedroBiano.png" width="100">](https://github.com/PedroBiano) |
+| [<img src="https://github.com/hepatoscopist.png" width="100">](https://github.com/soldysophychroma) | [<img src="https://github.com/Lucenalitz.png" width="100">](https://github.com/Lucenalitz) | [<img src="https://github.com/luisfelipeesb.png" width="100">](https://github.com/luisfelipeesb) | [<img src="https://github.com/PedroBiano.png" width="100">](https://github.com/PedroBiano) |
 |---|---|---|---|
 | *João Marini* | *Luigi Lucena* | *Luís Biano* | *Pedro Biano* |
 
